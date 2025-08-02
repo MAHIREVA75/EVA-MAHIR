@@ -100,7 +100,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
   
   if ((event.body.toLowerCase() == "mim") || (event.body.toLowerCase() == "Mim")) {
-     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস মাহির এর বউ এর নাম..!😠🥰⛏️", threadID);
+     return api.sendMessage("__-মিম নামের মেয়েরা ১২ ভাতারি হয়-!!🌚🐸😐", threadID);
    };
 
   if ((event.body.toLowerCase() == "Arohi") || (event.body.toLowerCase() == "arohi")) {
@@ -128,7 +128,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "Name") || (event.body.toLowerCase() == "name") || (event.body.toLowerCase() == "Tor nam ki")) {
-     return api.sendMessage("️MY NAME IS °_>𝐈𝐓'𝐒-𝐌𝐄-𝐌𝐀𝐒𝐇𝐈𝐊-𝐁𝐎𝐓-!!🥱😎🤟", threadID);
+     return api.sendMessage("️𝐌𝐘 𝐍𝐀𝐌𝐄 °_>𝐈𝐓'𝐒-𝐌𝐄-𝐌𝐀𝐒𝐇𝐈𝐊-𝐁𝐎𝐓-!!🥱😎🤟", threadID);
    };
 
    if ((event.body.toLowerCase() == "BOT ER BACCHA") || (event.body.toLowerCase() == "Bot er bacca")) {
