@@ -32,8 +32,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("type /help", threadID);
    };
   
-   if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simsimi")) {
-     return api.sendMessage("simsimi কমান্ড এড় নাই টাইপ করুন baby", threadID);
+   if ((event.body.toLowerCase() == "Shakib") || (event.body.toLowerCase() == "shakib")) {
+     return api.sendMessage("__-সাকিব কে কেউ ডাকিস না সাকিব এখন মাগিদের চিপায় ভিডিও কলে নুনু দেখাচ্ছে-!!🥵🍆💦🤰", threadID);
    };
   
    if ((event.body.toLowerCase() == "ওই কিরে") || (event.body.toLowerCase() == "oi keray") ||(event.body.toLowerCase() == "...") || (event.body.toLowerCase() == "...")) {
@@ -66,8 +66,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑  ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐀𝐇𝐈𝐑.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/THE.FATHER.OFF.GALIBAZ.MAHIR.5\nতার সাতে যোগা যোগ করবেন WhatsApp :- +0197993****", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
-     return api.sendMessage("My Creator:𝐌𝐀𝐇𝐈𝐑 ❤️ হাই আমি মেসেঞ্জার ROBOT  আামার বস  𝐌𝐀𝐇𝐈𝐑  আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
+   if ((event.body.toLowerCase() == "Boss") || (event.body.toLowerCase() == "tor boss ke")) {
+     return api.sendMessage("𝐌𝐘 𝐂𝐑𝐄𝐀𝐓𝐎𝐑:𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑 😍😘 হাই আমি মেসেঞ্জার ROBOT  আামার বস  𝐌𝐀𝐇𝐈𝐑  আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
